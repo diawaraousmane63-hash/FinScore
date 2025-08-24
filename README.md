@@ -23,4 +23,4 @@ This is a **working prototype and learning sandbox**. It represents my hands-on 
 - [ ] Build a simple Streamlit demo app.
 
 ## Connect With Me
-[LinkedIn Profile Link]
+www.linkedin.com/in/ousmane-diawara-528838201
